@@ -31,4 +31,5 @@ by Ibr Amir
 ## 📦 Установка
 
 1. Установи Python (3+ версия)
-2. Скачай проект по ссылке или скопируй код и вставь в python и можешь запускать
+2. Скачай проект по ссылке https://github.com/ibraimovw/-/blob/main/generatorpredlojeniy.py
+3. или скопируй код и вставь в python и можешь запускать
